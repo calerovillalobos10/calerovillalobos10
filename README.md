@@ -1,11 +1,10 @@
-<!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Thomas%20Calero%20-%20BackEnd%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
 
-I am a developer with over 2 years of experience in implementing B2B and B2C solutions using technologies such as .Net, Hana SQL, and SAP. I have extensive experience integrating various e-commerce platforms with SAP and developing custom applications integrated with SAP. Additionally, I have worked on developing native addons for SAP.
+Developer with over 2 years of experience in implementing B2B and B2C solutions using technologies such as .Net, Hana SQL, and SAP. I have extensive experience integrating various e-commerce platforms with SAP and developing custom applications integrated with SAP. Additionally, I have worked on developing native addons for SAP.
 
 My knowledge in cybersecurity has allowed me to serve as a technician leader, enhancing the security of all software developments I have been involved in.
 
@@ -48,13 +47,29 @@ My knowledge in cybersecurity has allowed me to serve as a technician leader, en
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge)
 ![JUPYTER](https://img.shields.io/badge/Jupyter-%2523F37626.svg?style=for-the-badge)
 ![DOCKER](https://img.shields.io/badge/docker-%25230db7ed.svg?style=for-the-badge&color=%2333fff3)
-
-
-## Professional Summary
+![VIRTUALBOX](https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge)
+![WIRESHARK](https://img.shields.io/badge/WIRESHARK-WHITE?style=for-the-badge&color=blue)
+![NMAP](https://img.shields.io/badge/NMAP-WHITE?style=for-the-badge&color=gray)
+![NIKTO](https://img.shields.io/badge/NIKTO-WHITE?style=for-the-badge&color=black)
+![BURP SUITE](https://img.shields.io/badge/Burp%20Suite-WHITE?style=for-the-badge&color=orange)
+![ZAP OWASP](https://img.shields.io/badge/zap%20owasp-WHITE?style=for-the-badge&color=000080)
+![KALI LINUX](https://img.shields.io/badge/KALI%20LINUX-WHITE?style=for-the-badge&color=000000)
 
 
 ## Experience
+### Novitec Consultores - SAP Gold Partner
+- Led a team as a technical lead, making critical decisions on security, design, and system architecture to deliver robust and scalable solutions.
+- Optimized core systems, resulting in significant improvements in performance and reliability.
+- Developed B2B and B2C applications that seamlessly integrated clients' proprietary systems and some eCommerce platforms with SAP, streamlining sales and inventory processes and boosting operational efficiency.
+- Created and customized SAP AddOns for clients, including hardware stores and customs agencies, and enhanced an AddOn for Costa Rica's electronic invoicing system.
+- Enhanced support response and customer service, reducing support tickets and increasing customer satisfaction, which improved the company's reputation.
+- Developed offline and online projects for a hardware store, synchronizing invoices and quotes with SAP and generating reports.
 
+### Freelance
+- Developed customized solutions to enhance the functionality and efficiency of web systems for various companies.
+- Collaborated closely with clients to identify and fulfill their specific web development needs, ensuring tailored and effective solutions.
+- Applied agile development practices to accelerate project delivery and enhance client satisfaction.
+- Gained valuable technical skills and practical experience, strengthening my profile as a web developer.
 
 ## Education
 - **Master's in Computing and Informatics with a concentration on Artificial Intelligence** - Universidad de Costa Rica (Present)
@@ -72,7 +87,7 @@ My knowledge in cybersecurity has allowed me to serve as a technician leader, en
   
 </div>
 
-## 🚀 Check Out My CV
+<!-- ## 🚀 Check Out My CV -->
 
 
 
